@@ -1,5 +1,6 @@
 ### I'm a passionate software developer with a goal to learn game development.
 Currently focusing on PHP, MySQL, HTML, CSS, but I'm always open to new challenges and self-development.
+My LinkedIn profile: (https://www.linkedin.com/in/daniels-breiers/)
 
 My 3 best Project currently:
 1. WeatherApp (Created a working weather app using https://www.weatherapi.com)
