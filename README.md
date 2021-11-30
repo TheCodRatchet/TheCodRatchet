@@ -4,7 +4,7 @@ My LinkedIn profile: (https://www.linkedin.com/in/daniels-breiers/)
 
 My 3 best Projects currently:
 1. WeatherApp (Created a working weather app showing data for 3 days and next 6 hours using https://www.weatherapi.com)
-2. TODO (Created a working TODO app together with register/login functions using Mysql database and CSV file saving)
+2. TODOv2 (Created a working TODO using Laravel)
 3. COVID19 (Created a table of COVID19 info about restricitions in Europe by countrys using data from CSV file)
 
 <!--
