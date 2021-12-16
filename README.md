@@ -7,6 +7,12 @@ My 3 best Projects currently:
 2. TODOv2 (Created a working TODO using Laravel)
 3. COVID19 (Created a table of COVID19 info about restricitions in Europe by countrys using data from CSV file)
 
+Other interesting projects:
+1. CRC (Created a 'Character Repeat Checker' app which accepts several flags nad filters)
+2. FooBarQixExtended (Created a working app following required steps in README.md)
+3. PouringWater (Created app to resolve following problem: https://www.spoj.com/problems/POUR1/)
+
+
 <!--
 **TheCodRatchet/TheCodRatchet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
