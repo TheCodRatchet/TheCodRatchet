@@ -3,9 +3,9 @@ Currently focusing on PHP, MySQL, HTML, CSS, but I'm always open to new challeng
 My LinkedIn profile: (https://www.linkedin.com/in/daniels-breiers/)
 
 My 3 best Projects currently:
-1. WeatherApp (Created a working weather app showing data for 3 days and next 6 hours using https://www.weatherapi.com)
-2. TODOv2 (Created a working TODO using Laravel)
-3. COVID19 (Created a table of COVID19 info about restricitions in Europe by countrys using data from CSV file)
+1. trivia (Created a trivia game using API and random questions)
+2. WeatherApp (Created a working weather app showing data for 3 days and next 6 hours using https://www.weatherapi.com)
+3. TODOv2 (Created a working TODO using Laravel)
 
 Other interesting projects:
 1. CRC (Created a 'Character Repeat Checker' app which accepts several flags nad filters)
